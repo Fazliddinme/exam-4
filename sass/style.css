@@ -2334,12 +2334,12 @@ footer .end-footer p {
     flex-direction: column !important;
   }
   footer .left-footer {
-    padding: 64px 20px 60px 20px;
+    padding: 64px 0px 20px 0px;
     gap: 60px;
     flex-wrap: wrap;
   }
   footer .right-footer {
-    padding: 64px 0px;
+    padding: 20px 0px;
   }
   footer .right-footer p {
     width: 150px;
